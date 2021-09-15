@@ -1,1 +1,1 @@
-# big_data_analytics_wrokshop1
+# big_data_and_analytics_wrokshop1
