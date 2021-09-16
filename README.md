@@ -1,7 +1,7 @@
 # big_data_and_analytics_workshop1
 
 ## First part
-###### Installation and setup of virtualbox version 6.1 and Ubuntu version 21.04 was performed successfully
+###### Installation and setup of virtualbox version 6.1, Ubuntu version 21.04 and Hadoop was performed successfully
 
 ## Second part
 
@@ -74,6 +74,26 @@ It assigned a key to every word on the text file and then, each time the mapping
 ###### Anaconda and Jupyter lab installation and configuration evidence
 ###### Evidence of ipynb scripts running and working okay
 
-![part4-4-1](/screenshots/part3-1-1.png?raw=true "part4-4-1.png")
+![part4-4-1](/screenshots/part4-4-1.png?raw=true "part4-4-1.png")
+
+![part4-4-2](/screenshots/part4-4-2.png?raw=true "part4-4-2.png")
+
+![part4-4-3](/screenshots/part4-4-3.png?raw=true "part4-4-3.png")
+
+![part4-4-4](/screenshots/part4-4-4.png?raw=true "part4-4-4.png")
+
+![part4-4-5](/screenshots/part4-4-5.png?raw=true "part4-4-5.png")
+
+![part4-4-6](/screenshots/part4-4-6.png?raw=true "part4-4-6.png")
+
+![part4-4-7](/screenshots/part4-4-7.png?raw=true "part4-4-7.png")
+
+![part4-4-8](/screenshots/part4-4-8.png?raw=true "part4-4-8.png")
+
+![part4-4-9](/screenshots/part4-4-9.png?raw=true "part4-4-9.png")
+
+![part4-4-10](/screenshots/part4-4-10.png?raw=true "part4-4-10.png")
+
+
 
 

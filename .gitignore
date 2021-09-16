@@ -1,2 +1,3 @@
 #data files
 data/*stocks_price_final.csv
+data/*TSLA_timeseries.csv
